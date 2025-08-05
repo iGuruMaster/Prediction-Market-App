@@ -1,4 +1,4 @@
-# 🔮 PredictMarket - Advanced Prediction Market Platform
+# 🔮 PredictMarket - Advanced Prediction Market App Platform
 
 A sophisticated, production-ready prediction market application built with React, TypeScript, and modern web technologies. This platform enables users to create, trade, and profit from predictions on future events across various categories.
 
