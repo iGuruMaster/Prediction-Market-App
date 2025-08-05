@@ -211,10 +211,8 @@ VITE_ANALYTICS_ID=GA_MEASUREMENT_ID
 
 Ready to launch your prediction market platform or explore partnership opportunities?
 
-- **Business Inquiries**: business@predictmarket.com
-- **Technical Support**: support@predictmarket.com
-- **Partnership Opportunities**: partners@predictmarket.com
-- **Demo Requests**: demo@predictmarket.com
+- **Business Inquiries**: info@sportsbettingsoft.com
+
 
 ### Get Started Today
 Contact us for a personalized demo and consultation. Our team of experts will help you understand how prediction markets can enhance your business or investment strategy.
